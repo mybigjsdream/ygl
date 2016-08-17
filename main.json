@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "app",
-      "script": "main.js",
+      "script": "./bundle/main.js",
       "log_date_format": "YYYY-MM-DD HH:mm Z",
       "exec_mode": "fork_mode",
       "env": {
