@@ -1,0 +1,19 @@
+{
+  "apps": [
+    {
+      "name": "app",
+      "script": "main.js",
+      "log_date_format": "YYYY-MM-DD:HH-mm-ss",
+      "exec_mode": "fork_mode",
+      "env": {
+
+        "MONGO_URL": "mongodb://localhost:27017/ygl",
+
+        "PORT": "80",
+
+        "ROOT_URL": "http://m.yigonglue.com",
+
+      }
+    }
+  ]
+}

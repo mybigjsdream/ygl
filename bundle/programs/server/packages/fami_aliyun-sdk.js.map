@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/packages/fami_aliyun-sdk/aliyun-sdk.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;AAAA;AACA,gC","file":"/packages/fami_aliyun-sdk.js","sourcesContent":["// Write your package code here!\nALY = Npm.require('aliyun-sdk');"]}
