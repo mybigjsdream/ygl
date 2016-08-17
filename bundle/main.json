@@ -3,7 +3,7 @@
     {
       "name": "app",
       "script": "main.js",
-      "log_date_format": "YYYY-MM-DD:HH-mm-ss",
+      "log_date_format": "YYYY-MM-DD HH:mm Z",
       "exec_mode": "fork_mode",
       "env": {
 
